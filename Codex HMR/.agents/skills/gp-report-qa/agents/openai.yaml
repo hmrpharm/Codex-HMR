@@ -1,0 +1,4 @@
+interface:
+  display_name: "GP-perspective Report QA"
+  short_description: "Independent GP-facing clinical report QA"
+  default_prompt: "Use $gp-report-qa to review this completed clinical report and return source-linked QA findings only."
