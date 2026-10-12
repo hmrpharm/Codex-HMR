@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex HMR"
+  short_description: "Two approved HMR reports with clinical and layout QA"
+  default_prompt: "Use $codex-hmr to complete both approved Word reports from this patient's supplied referral, interview and supporting sources, validate them and save them to the correct Google Drive patient folder."
